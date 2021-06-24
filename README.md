@@ -10,7 +10,7 @@
 | 3  | [CNN][CNN1]      | 5 Conv, Softmax Classifier        | None                    | 44             | 1000                 | 98.80%   | 99.87               |
 | 4  | [CNN][CNN2]      | 5 Conv, Softmax Classifier        | None                    | 122            | 1000                 | 96.53%   | 97.05%              |
 | 5  | [ResNet][ResNet1] | 51 Layers                         | None                    | 44             | 1462                 | 98.19%   | 97.30%              |
-| 6  | [SVM][AlexnetSVM] | 8 Layers SVM Classifier           | Alexnet Layers          | 122            |                      | 99.41%   | 97.15%              |
+| 6  | [SVM][AlexnetSVM] | 8 Layers SVM Classifier           | Alexnet Layers          | 122            | 4116                 | 99.41%   | 97.15%              |
 | 7  | [RandomForest][RandomForest1] | gini , 100 estimators             | None                    | 36             | 3060                 | 95.00%   | 94.79%              |
 | 8  | [RandomForest][RandomForest2] | gini , 100 estimators             | None                    | 44             | 2088                 | 96.00%   | 94.99 %             |
 
